@@ -1,7 +1,7 @@
 
 class Hello {
 
-      public static void main(String[] s) {}
+      public static void main(String[] s) {
           System.out.println("Hello BEAUTIFUL World!");
       }
 
